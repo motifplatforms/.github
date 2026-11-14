@@ -20,6 +20,10 @@ backed by engineers who build and evaluate the systems themselves.
 Client engagements and internal tooling stay private by design. The open repos above are clean, standalone versions
 of the patterns we use.
 
+### Working with us
+- **Case studies:** [all client impact](https://www.motifplatforms.com/clientimpact), including an [AI model evaluation framework](https://www.motifplatforms.com/clientimpact#ai-model-evaluation-framework) and [model refinement for a frontier AI lab](https://www.motifplatforms.com/clientimpact#frontier-ai-lab-model-refinement)
+- **Talk to us:** [start a conversation](https://www.motifplatforms.com/contact-us)
+
 ### Writing
 [Teaching machines to do real work](https://www.motifplatforms.com/insights): post-training data, exercises, graders
 and evaluation for knowledge-work agents.

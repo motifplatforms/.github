@@ -24,4 +24,4 @@ of the patterns we use.
 [Teaching machines to do real work](https://www.motifplatforms.com/insights): post-training data, exercises, graders
 and evaluation for knowledge-work agents.
 
-**Contact:** [dsaran@motifplatforms.com](mailto:dsaran@motifplatforms.com) · **Founder:** [Daljeet Saran](https://github.com/daljeet-saran) · [motifplatforms.com](https://www.motifplatforms.com) · [LinkedIn](https://www.linkedin.com/company/motif-platforms)
+**Contact:** [dsaran@motifplatforms.com](mailto:dsaran@motifplatforms.com) · **Founder:** [Daljeet Saran](https://github.com/daljeet-saran) · [motifplatforms.com](https://www.motifplatforms.com) · [LinkedIn](https://www.linkedin.com/company/motifplatforms)

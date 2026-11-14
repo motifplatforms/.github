@@ -9,8 +9,8 @@ backed by engineers who build and evaluate the systems themselves.
 
 | Repo | What it is |
 |---|---|
-| [**aspera-grader-kit**](https://github.com/motifplatforms/aspera-grader-kit) | Grade the Word, PowerPoint and Excel files AI agents produce: inspectors, explainable checks, a JSON rubric and a worked example |
 | [**mosaic-benchmarks**](https://github.com/motifplatforms/mosaic-benchmarks) | Headline results from Mosaic, our benchmark of agents on real business deliverables |
+| [**aspera-grader-kit**](https://github.com/motifplatforms/aspera-grader-kit) | Grade the Word, PowerPoint and Excel files AI agents produce: inspectors, explainable checks, a JSON rubric and a worked example |
 
 ### What we build
 - **Agent evaluation:** exercises, graders and benchmarks for knowledge-work AI
